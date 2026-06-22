@@ -42,7 +42,7 @@ I'm constantly seeking new challenges to learn, improve, and discuss how we can 
 </td>
 <td width="50%" valign="top">
 <h4>› Tools & Environment</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,windows" />
 <br><br>
 <h4>› Current Skill Level</h4>
   
