@@ -81,7 +81,7 @@ I'm constantly seeking new challenges to learn, improve, and discuss how we can 
 </a>
 &nbsp;
 <!-- KO-FI -->
-<a href="ko-fi.com/macecoding" target="_blank">
+<a href="https://ko-fi.com/macecoding" target="_blank">
 <img src="https://img.shields.io/badge/Ko--fi-0A0A0A?style=for-the-badge&logo=ko-fi&logoColor=00d4aa" alt="Ko-fi" />
 </a>
 </p>
