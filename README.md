@@ -71,7 +71,7 @@ I'm constantly seeking new challenges to learn, improve, and discuss how we can 
 </a>
 &nbsp;
 <!-- TWITTER / X -->
-<a href="https://twitter.com/TU_USUARIO_X" target="_blank">
+<a href="https://x.com/114_DEV" target="_blank">
 <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=00d4aa" alt="Twitter/X" />
 </a>
 &nbsp;
